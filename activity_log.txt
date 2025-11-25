@@ -19,3 +19,4 @@ Log kaydi: 18
 Log kaydi: 19
 Log kaydi: 20
 Log kaydi: 1
+Log kaydi: 2
