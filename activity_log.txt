@@ -24,3 +24,4 @@ Log kaydi: 3
 Log kaydi: 4
 Log kaydi: 5
 Log kaydi: 6
+Log kaydi: 7
