@@ -35,3 +35,4 @@ Log kaydi: 14
 Log kaydi: 15
 Log kaydi: 16
 Log kaydi: 17
+Log kaydi: 18
